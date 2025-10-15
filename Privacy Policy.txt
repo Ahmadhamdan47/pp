@@ -1,0 +1,63 @@
+﻿Privacy Policy
+Effective Date: 12 October 2025
+1. Introduction
+Welcome to Sudoku Evolution ("we," "our," or "us"). We are committed to protecting your personal data and respecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+2. Data Controller
+Sudoku Evolution
+Lebanon – Beirut
+Email: admin@sudokuevolution.net
+3. Information We Collect
+Sudoku Evolution may collect limited user data for analytics and gameplay improvement. No personal or sensitive user data (such as financial, contacts, camera, or precise location information) is collected, shared, or sold to third parties for marketing purposes.
+
+We may collect and process the following data about you:
+·        Contact Information: Email address when you use the "Contact Us" feature to send feedback or report issues.
+·        Usage Data: Details of your use of the App, including gameplay performance, actions, reactions, clicks, feedback to improve the app, and other interaction data.
+·        Technical Data: Device information such as device type, operating system, unique device identifiers, and mobile network information.
+·        Analytics Data: Collected through third-party analytics tools (such as Google Analytics for Firebase or similar services) to help us understand how users interact with the App. These tools may receive basic device or interaction data in accordance with their own privacy policies.
+
+
+4. How We Use Your Information
+We use the information we collect in the following ways:
+·        To provide and maintain our App's functionality.
+·        To manage your account and provide customer support.
+·        To respond to your comments, questions, and requests.
+·        To analyze usage patterns and improve our App's performance and user experience.
+·        To communicate with you about updates, promotions, and other information related to the App.
+·        To comply with legal obligations and enforce our terms and policies.
+5. Legal Basis for Processing Personal Data
+We process your personal data based on the following legal grounds:
+·        Consent: When you provide your information voluntarily, such as when you contact us or opt-in to receive communications.
+·        Contractual Necessity: To fulfill our obligations under BETA PARTICIPATION AGREEMENT.
+·        Legitimate Interests: To analyze and improve our App and to ensure its security and functionality.
+·        Legal Obligation: To comply with applicable laws and regulations.
+6. Data Sharing and Disclosure
+We may share your information with:
+·        Service Providers: Third-party vendors that provide services such as analytics, data storage, and customer support.
+·        Legal Authorities: When required to do so by law or in response to valid requests by public authorities.
+·        Business Transfers: In the event of a merger, acquisition, or asset sale, your personal data may be transferred.
+7. International Data Transfers
+Your information may be transferred to and maintained on servers located outside your country of residence. We ensure that such transfers comply with applicable data protection laws and that appropriate safeguards are in place.
+8. Data Retention
+We retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy. When we no longer need your information, we will securely delete or anonymize it.
+9. Your Rights Under GDPR
+If you are a resident of the European Economic Area (EEA), you have the following rights:
+·        Access: Request access to your personal data.
+·        Rectification: Request correction of inaccurate or incomplete data.
+·        Erasure: Request deletion of your personal data.
+·        Restriction: Request restriction of processing your data.
+·        Data Portability: Request transfer of your data to another service provider.
+·        Objection: Object to processing your data based on legitimate interests.
+·        Withdraw Consent: Withdraw your consent at any time, where processing is based on consent.
+To exercise these rights, please contact us at se@sudokuevolution.net
+10. Permissions:
+Our App requests only the minimum permissions necessary to function (for example, access to storage for saving local progress). The App does not request access to contacts, camera, microphone, location, or other sensitive data.
+11. Data Security
+We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. We do not collect or share user data beyond what is disclosed there.
+12. Account Deletion
+Our App currently does not require user accounts. If account functionality is added in the future, users will be able to request account deletion directly from within the App or via email.
+13. Children's Privacy
+Our App is not directed to children under 13 (or under the minimum age required by local law). We do not knowingly collect personal data from such users.
+14. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date. We encourage you to review this policy periodically to stay informed about how we are protecting your information.
+15. Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at: admin@sudokuevolution.net
